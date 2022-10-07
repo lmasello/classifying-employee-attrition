@@ -62,3 +62,4 @@ code HR-Employee-Attrition.ipynb
   - Fine-tuning
   - Result interpretations
 - [requirements.txt](requirements.txt): Project dependencies
+- [HR-Employee-Attrition.csv](HR-Employee-Attrition.csv): Main dataset used in the project
