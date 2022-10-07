@@ -55,5 +55,3 @@ code HR-Employee-Attrition.ipynb
   - Fine-tuning
   - Result interpretations
 - [requirements.txt](requirements.txt): Project dependencies
-
-## Licensing, Authors, Acknowledgements
