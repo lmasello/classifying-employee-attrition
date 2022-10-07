@@ -7,7 +7,7 @@ Dataset: Kagle ["HR Analytics"](https://www.kaggle.com/datasets/rishikeshkonapur
 
 ## Key findings
 
-The results show that employee profiles – considering personal and professional factors – carry predictive power to determine the attrition likelihood.
+The results show that employee profiles – considering personal and professional factors – carry predictive power to determine the attrition likelihood and answer the following questions:
 
 ### What are the top five most impactful work attributes that increase the changes of attrition?
 
