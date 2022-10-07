@@ -1,6 +1,7 @@
 # Classifying Employee Attrition
 
 The project aims to identify the main contributing factors leading to employee attrition and determine the attrition likelihood based on the employee's profile.
+
 ---
 Dataset: Kagle ["HR Analytics"](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction)
 
