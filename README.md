@@ -6,9 +6,9 @@ The project aims to identify the main contributing factors leading to employee a
 Dataset: Kagle ["HR Analytics"](https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction)
 
 ## Key findings
-The results show that employee profiles – considering personal and professional factors – carry predictive power to determine the attrition likelihood and answer the following questions:
+The results show that employee profiles – considering personal and professional factors – carry predictive power to determine the attrition likelihood and answer the questions below. If you are interested in knowing more about this work, you can visit my [blog post](https://medium.com/@maselloleandro/how-likely-is-your-next-job-attrition-2fe6482fe284), where I further elaborate on the problem background and questions.
 
-### What are the top five most impactful work attributes that increase the changes of attrition?
+### What are the most impactful work attributes that increase the changes of attrition?
 
 - Work overtime
 - Travel frequently
@@ -16,7 +16,7 @@ The results show that employee profiles – considering personal and professiona
 - Being single
 - Lack of job promotion
 
-### What are the most frequent departments, education fields, and job roles that experience attrition?
+### What are the departments, education fields, and job roles that experience the highest rates of attrition?
 
 - Department: Sales
 - Education Field: Technical degree
@@ -63,3 +63,9 @@ code HR-Employee-Attrition.ipynb
   - Result interpretations
 - [requirements.txt](requirements.txt): Project dependencies
 - [HR-Employee-Attrition.csv](HR-Employee-Attrition.csv): Main dataset used in the project
+
+
+## Acknowledgements
+
+Dataset credit:
+  Konapure (2022). “HR Analytics — Employee attrition prediction” in Kaggle. URL: https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction. License: [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
